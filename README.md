@@ -1,3 +1,20 @@
-## dwm
-Dinamic Window Manager and a Suckless Terminal
-_This file has very few lines with the propouse of making an efficient status bar_ 
+         -/oyddmdhs+:.                
+     -odNMMMMMMMMNNmhy+-`             
+   -yNMMMMMMMMMMMNNNmmdhy+-           
+   `omMMMMMMMMMMMMNmdmmmmddhhy/`        
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`      
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    
+oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:   
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`        
+ +MMMMMMMNNNNNmmmmdmNMNdso/-           
+yMMNNNNNNNmmmmmNNMmhs+/-`             
+/hMMNNNNNNNNMNdhs++/-`                
+`/ohdmmddhys+++/:.`                   
+  `-//////:--.
+  
+Suckless status bar
