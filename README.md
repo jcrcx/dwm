@@ -1,20 +1,4 @@
-`        -/oyddmdhs+:.                
-     -odNMMMMMMMMNNmhy+-'             
-   -yNMMMMMMMMMMMNNNmmdhy+-           
-   'omMMMMMMMMMMMMNmdmmmmddhhy/'        
- omMMMMMMMMMMMNhhyyyohmdddhhhdo'
-.ydMMMMMMMMMMdhs++so/smdddhhhhdm+'    
-oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   
-  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   
-       /mMMMMMMNNNmmmdddhhhhhmMNhs:   
-    'oNMMMMMMMNNNmmmddddhhdmMNhs+'    
-  'sNMMMMMMMMNNNmmmdddddmNMmhs/.      
- /NMMMMMMMMNNNNmmmdddmNMNdso:'        
- +MMMMMMMNNNNNmmmmdmNMNdso/-           
-yMMNNNNNNNmmmmmNNMmhs+/-'             
-/hMMNNNNNNNNMNdhs++/-'                
-'/ohdmmddhys+++/:.'                   
-  '-//////:--.
-`
-Suckless status bar
+# Suckless status bar
+This is the simplest status bar ever. Few lines that show the essential.
+
+- KISS
